@@ -1,0 +1,10 @@
+{
+    "hosting": {
+      "site": "esurvey-7023f-b7c5a",
+  
+      "public": "out",
+     "rewrites": [
+        { "source": "**", "destination": "/index.html" }
+      ]
+    }
+  }
