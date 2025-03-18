@@ -7,8 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "export":"next export",
-    "deploy":"firebase deploy"
+    "export": "next export",
+    "deploy": "firebase deploy"
   },
   "dependencies": {
     "firebase": "^11.4.0",
@@ -18,7 +18,6 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
-    "@types/firebase": "^3.2.3",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
